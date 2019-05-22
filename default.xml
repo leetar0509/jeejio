@@ -2,5 +2,5 @@
  <manifest> 
    <remote name="leetar0509 " fetch="https://github.com/leetar0509/" /> 
    <default remote="leetar0509 " revision="master"/> 
-   <project path="jeejio" name="platform/jeejio"/> 
+   <project path="jeejio" name="jeejio"/> 
  </manifest>
