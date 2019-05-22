@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
  <manifest> 
-   <remote name="jeejio " fetch="jeejio.git" /> 
-   <default remote="jeejio " revision="master"/> 
+   <remote name="leetar0509 " fetch="https://github.com/leetar0509/" /> 
+   <default remote="leetar0509 " revision="master"/> 
    <project path="jeejio" name="platform/jeejio"/> 
  </manifest>
